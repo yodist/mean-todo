@@ -1,3 +1,3 @@
 // js/core.js
 
-angular.module('bogoTodo', ['todoController', 'todoService']);
+angular.module('yodiTodo', ['todoController', 'todoService']);
